@@ -1,0 +1,3 @@
+This project is implemented using python, pandas, and Sklearn to make a linear regression model to predict 'Medical Insurance cost'.
+Dataset was taken from kaggle which was uncleaned data, first I cleaned the data and then imported the csv file for the model.
+Used a linear regression model to predict the cost of insurance.
